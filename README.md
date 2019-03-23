@@ -1,8 +1,9 @@
-# vi_Turkce_Dokuman
-* ozellikle Linux'da 'vi' kullanimini yayginlastirmak icin hazirlanmis bir diger Turkce kaynak
+# vi Türkçe Kaynak
+* özellikle Linux'da 'vi' kullanımını yaygınlaştırmak için hazırlanmış bir diğer Türkçe kaynak
+* Bilgisayar dünyasının hemen hemen bu en eski editörünü kullanabilmek için
 
-Komut Mode
-----------
+Komut Mod
+---------
 ```python
 <Esc>   # Komut Mode'a geç
 <:x!>   # Kaydet ve çık
@@ -11,9 +12,9 @@ Komut Mode
 <G>     # Dosya sonu, en son satır
 ```
 
-Editor Mode
------------
+Editor Mod
+----------
 ```python
-<dd>  # cursorun bulundugu satiri siler
+<dd>    # cursorun bulundugu satiri siler
 ```
 
