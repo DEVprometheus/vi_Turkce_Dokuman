@@ -2,7 +2,7 @@
 * özellikle Linux'da 'vi' kullanımını yaygınlaştırmak için hazırlanmış bir diğer Türkçe kaynak
 * Bilgisayar dünyasının hemen hemen bu en eski editörünü kullanabilmek için
 * vi [dosya.ismi] yazıp, vi'ye girdikten sonra, 
-  aşağıdaki;
+  <br>aşağıdaki;
   <  > arasında gördüğünüz karakterlere klavyeden basarak, sağda yazılı işlemleri yaptıklarını görebilirsiniz...
 
 Komut Mod
