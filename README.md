@@ -10,17 +10,21 @@ Komut Mod
 ```python
 <Esc>   # Komut Mode'a geç
 <:w>    # Dosyayı kaydet
+<u>     # undo/geri al - yapılan son değişikliği geri alır
 
 <ZZ>   # Kaydet ve çık - en basit ve en hızlı
 <:x!>   # Kaydet ve çık - bi diğer
 <:wq!>  # Kaydet ve çık - bir diğer
-<:q!>   # yapılan hiç bir değişikliği kayedetmeden çıkar
-<1G>    # Dosya başı, ilk satır
+<:q!>   # yapılan hiç bir değişikliği kayedetmeden çıkar !!!
+<gg>    # Dosya başı, ilk satır
+<1G>    # Dosya başı, ilk satır - bi diğer
 <G>     # Dosya sonu, en son satır
 <i>     # insert, dosya içine yazmaya başlayabilirsiniz
 <x>     # cursorun üzerinde bulunduğu karakteri siler
 <A>     # cursoru üzerinde bulunduğu satırın sonuna atar ve edit moda geçer
 <I>     # cursoru üzerinde bulunduğu satırın başına atar ve edit moda geçer
+<r>     # cursorun üzerinde bulunduğu tek karakteri değiştirmek için
+
 ```
 
 Editor Mod
