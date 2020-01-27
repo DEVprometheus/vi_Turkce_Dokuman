@@ -1,7 +1,7 @@
 # vi Türkçe Kaynak
 * özellikle Linux'da 'vi' kullanımını yaygınlaştırmak için hazırlanmış bir diğer Türkçe kaynak
 * Bilgisayar dünyasının hemen hemen bu en eski editörünü kullanabilmek için
-* vi [dosya.ismi] yazıp, vi'ye girdikten sonra, 
+* vi [dosya.ismi] yazıp, vi'ye girdikten sonra,
   <br>aşağıdaki;
   <  > arasında gördüğünüz karakterlere klavyeden basarak, sağda yazılı işlemleri yaptıklarını görebilirsiniz...
 
@@ -9,12 +9,13 @@ Komut Mod
 ---------
 ```python
 <Esc>   # Komut Mode'a geç
-<:w>    # Dosyayı kayded
+<:w>    # Dosyayı kaydet
 
 <:x!>   # Kaydet ve çık
-<:wq!>  # Kaydet ve çık 
+<:wq!>  # Kaydet ve çık
 <1G>    # Dosya başı, ilk satır
 <G>     # Dosya sonu, en son satır
+<i>     # insert, dosya içine yazmaya başlayabilirsiniz
 ```
 
 Editor Mod
@@ -25,4 +26,3 @@ Editor Mod
 <dd>    # cursorun bulundugu satiri siler
 <yyp>   # bulunulan satırı kopyalar ve altına yapıştırır
 ```
-
